@@ -5,6 +5,7 @@ import Contactanos from './paginas/contactanos';
 import Perfil_l from './paginas/perfil';
 import Registro_usuario from './componentes/registro_usuario';
 import Seccion_iniciada from './paginas/seccion_iniciada';
+import Sobre_nosotros from './componentes/sobre_nosotros';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <Route exact path='/contactanos' element={<Contactanos />} />
         <Route exact path='/perfil' element={<Perfil_l />} />
         <Route exact path='/seccion_iniciada' element={<Seccion_iniciada />} />
+        <Route exact path='/sobre_nosotros' element={<Sobre_nosotros />} />
       </Routes>
     </Router>
   );

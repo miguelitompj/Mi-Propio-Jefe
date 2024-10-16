@@ -25,7 +25,7 @@ function Init() {
             <div className="info-section">
                <h2>¿QUÉ ENCONTRARÁS AQUÍ?</h2>
                <p>
-                  En nuestra página encontraras distintas maneras y apoyo para hacer.
+                  En nuestra página encontraras distintas maneras y apoyo para hacer crecer tu negocio.
                </p>
             </div>
          </header>

@@ -1,12 +1,12 @@
 import React from 'react';
 import Seccion_iniciada from '../componentes/seccion_iniciada';
 
-function Seccion_iniciada(){
+function Iniciado(){
   return(
-    <div className='Seccion_iniciada'>
+    <div className='Iniciado'>
       <Seccion_iniciada/>
     </div>
   );
 }
 
-export default Seccion_iniciada;
+export default Iniciado;

@@ -8,7 +8,7 @@ function pie_de_pagina() {
       <div className="container fluid">
         <div className="row mx-auto">
           <div className="text center mx-auto">
-            <h2 className="encabezado mt-3">Trabaja en la salle</h2>
+            
             <img src={Designer} alt="imagen" width={300}/>
             <h4 className="encabezado">
               ¿Eres emprendedor? presenta tu emprendimiento para recibir el apoyo necesario para darte a conocer en el mercado
